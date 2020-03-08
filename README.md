@@ -1,4 +1,4 @@
-Folked from https://github.com/mrmorais/behavior-map-natal
+Forked from https://github.com/mrmorais/behavior-map-natal
 
 
 # Behavior Map Natal
